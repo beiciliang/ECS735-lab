@@ -5,7 +5,7 @@ Read-only scripts are presented using [Jupyter Notebook](http://jupyter.org/inde
 
 1. [Lab-RDF.ipynb](https://nbviewer.jupyter.org/github/beiciliang/ECS735-lab/blob/master/Lab-RDF.ipynb): get familiar with the Python language for creating simple Semantic Web programs, and know the RDFLib library to load and manipulate RDF graphs.
 
-2. [Lab-SPARQL.ipybn](https://nbviewer.jupyter.org/github/beiciliang/ECS735-lab/blob/master/Lab-SPARQL.ipynb): use SPARQL to query remotely semantic end points, merge RDF data from multiple sources, and visualise SPARQL queries.
+2. [Lab-SPARQL.ipynb](https://nbviewer.jupyter.org/github/beiciliang/ECS735-lab/blob/master/Lab-SPARQL.ipynb): use SPARQL to query remotely semantic end points, merge RDF data from multiple sources, and visualise SPARQL queries.
 
 If you wish to lauch them locally, please check the requirements.
 
