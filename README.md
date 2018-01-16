@@ -18,7 +18,7 @@ $ git clone https://github.com/beiciliang/ECS735-lab.git
 
 3. Install the requirements using pip
 ```
-$ cd modelAttackDecay-for-piano-transcription
+$ cd ECS735-lab
 $ pip install --user -r requirements.txt
 ```
 
