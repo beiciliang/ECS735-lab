@@ -1,4 +1,12 @@
 # ECS735-lab
+```
+=========== WARNING==============
+=================================
+This project has now moved to 
+https://github.com/QMUL-ECS735P
+=================================
+```
+
 Python scripts for the lab sessions of ECS735 The Semantic Web.
 
 Read-only scripts are presented using [Jupyter Notebook](http://jupyter.org/index.html), which you can directly browse `.ipynb` files here.
